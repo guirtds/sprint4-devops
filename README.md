@@ -1,6 +1,6 @@
 ### 📌 Executar o pipeline:</br>
    - Acesse o Azure DevOps:</br>
-   - Abra o portal do Azure DevOps e navegue até a organização e o projeto onde o pipeline está configurado.</br>
+   - Abra o portal do Azure DevOps (https://dev.azure.com/RM552522/MyTrend%20-%20Sprint) e navegue até a organização e o projeto onde o pipeline está configurado.</br>
    - No menu lateral, clique em Pipelines para ver a lista de pipelines disponíveis no projeto.</br>
    - Selecionar o Pipeline:</br>
    - Na lista de pipelines, encontre o pipeline principal do projeto.</br>
